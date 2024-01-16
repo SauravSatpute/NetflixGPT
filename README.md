@@ -28,6 +28,15 @@
 - Register TMDB API and create an app and get access token
 - get data from tmdb now playing movies list api
 - Fetch Data From TMDB Movies
+- Custom Hook For Now Playing Movies
+- Create MoviesSlices
+- Update Store with movies Data
+- Planning for mainContiner & secondaryContainer
+- Fetch Data for trailer video
+- update store with video trailer data
+- Embeded the youtube video data and make it autoplay and mute
+- Tailwind classes to make Main Container look awesome
+-   
 
 # Features
 
